@@ -58,11 +58,7 @@ python emotion_detection.py
 
 You can use this code as a starting point for building more complex emotion detection systems. Customize the model, add more labels, or integrate it with other applications.
 
-## Closing Remarks
 
-This project provides a simple yet effective way to perform real-time emotion detection using a pre-trained VGG16 model. Feel free to explore and modify the code to suit your specific requirements.
-
-For any questions or suggestions, please contact the author.
 
 ---
 

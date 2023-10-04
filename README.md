@@ -7,7 +7,7 @@ This project implements a real-time emotion detection system using Python. It ut
 
 ## Prerequisites
 
-Before running the code, make sure you have the following libraries installed:
+Before running the code, make sure you have the following libraries installed :
 
 - `cv2`: OpenCV for image and video processing.
 - `keras`: A high-level neural networks API.

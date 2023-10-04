@@ -66,8 +66,8 @@ For any questions or suggestions, please contact the author.
 
 ---
 
-**Author**: [Your Name]
+**Author**: [Wala Hassine]
 
-**Contact**: [Your Email]
+**Contact**: [Walahassine2002@gmail.com]
 
-**Date**: [Date]
+**Date**: [4/10/2023]

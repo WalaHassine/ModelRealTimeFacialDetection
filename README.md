@@ -1,4 +1,4 @@
-# ModelRealTimeFacialDetection
+
 # Emotion Detection Project README
 
 ## Introduction
